@@ -1,0 +1,9 @@
+{
+    "api_id": "paste_your_api_id",
+    "api_hash": "paste_your_api_hash",
+    "phone": "paste_you_number_like +441234567890",
+    "password": "paste_your_password_here",
+    "channel_url": "t.me/raidboard",
+    "timezone": "Europe/London",
+    "output_directory": "C:\\Users\\paste_your_path\\in\\this\\crypto\\all projects\\shillbot\\data"    
+}

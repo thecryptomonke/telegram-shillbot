@@ -1,0 +1,35 @@
+# Setup Instructions
+
+## Step 1: Install Dependencies
+Make sure you have all the required Python packages installed. You can do this by running: pip install -r requirements.txt
+
+set up a 2FA password on telegram app settings> privacy & security> two-step verification
+
+make sure you are not connected to any other applications Telegram app settings> privacy & security> active sessions (this can also be used to remove the connection to this bot)
+
+## step 2: change the config.json
+make sure you input your account details or this will not work 
+for the "output_directory": "C:\\Users\\cryptomonke\\OneDrive\\Documents\\crypto\\all projects\\telegram shillbot\\data" Paste your own file path explaination in the picture ![alt text](image-2.png) use (\\) for your file path instead of (/) "C:\\Users\\cryptomonke" ✔ "C:\Users\cryptomonke" ✘
+here are the steps from the telegram website:
+Obtaining api_id
+In order to obtain an API id and develop your own application using the Telegram API you need to do the following:
+
+Sign up for Telegram using any application.
+Log in to your Telegram core: https://my.telegram.org.
+Go to "API development tools" and fill out the form.
+You will get basic addresses as well as the api_id and api_hash parameters required for user authorization.
+For the moment each number can only have one api_id connected to it.
+
+the website will look like this:
+![alt text](image.png)
+
+## step 3: setup.py telegram connection to the bot
+you will now run setup.py and add you account details:
+phone number (with area code example - 447771234567 +44 is UK)
+confirmation code telegram will send you
+password(this will appear blank when typing but does work)
+
+this is how it will look
+![alt text](image-1.png)
+
+Now with these steps completed you will be able to run main.py

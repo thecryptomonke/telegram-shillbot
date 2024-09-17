@@ -1,0 +1,6 @@
+pandas
+pytz
+tabulate
+telethon
+tqdm
+openpyxl
