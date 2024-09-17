@@ -9,7 +9,8 @@ make sure you are not connected to any other applications Telegram app settings>
 
 ## step 2: change the config.json
 make sure you input your account details or this will not work 
-for the "output_directory": "C:\\Users\\cryptomonke\\OneDrive\\Documents\\crypto\\all projects\\telegram shillbot\\data" Paste your own file path explaination in the picture ![alt text](image-2.png) use (\\) for your file path instead of (/) "C:\\Users\\cryptomonke" ✔ "C:\Users\cryptomonke" ✘
+for saving tables of data create a folder that you want the program to paste the data to then copy the path explanation below
+"output_directory": "C:\\Users\\cryptomonke\\OneDrive\\Documents\\crypto\\all projects\\telegram shillbot\\data" Paste your own file path explaination in the picture ![alt text](image-2.png) use (\\) for your file path instead of (/) "C:\\Users\\cryptomonke" ✔ "C:\Users\cryptomonke" ✘
 here are the steps from the telegram website:
 Obtaining api_id
 In order to obtain an API id and develop your own application using the Telegram API you need to do the following:
